@@ -34,21 +34,21 @@
 
 ## **🚀 Quick Links**
 
-- [Download Ladder Models](https://www.notion.so/Ladder-Readme-934c6cdea6274ca39044d2f1c90cbdcf?pvs=21)
-- [Quick Usage](https://www.notion.so/Ladder-Readme-934c6cdea6274ca39044d2f1c90cbdcf?pvs=21)
-- [Environment Setup](https://www.notion.so/Ladder-Readme-934c6cdea6274ca39044d2f1c90cbdcf?pvs=21)
-- [Code Structure](https://www.notion.so/Ladder-Readme-934c6cdea6274ca39044d2f1c90cbdcf?pvs=21)
-- [Ladder Pipeline](https://www.notion.so/Ladder-Readme-934c6cdea6274ca39044d2f1c90cbdcf?pvs=21)
-- [Citation](https://www.notion.so/Ladder-Readme-934c6cdea6274ca39044d2f1c90cbdcf?pvs=21)
+- [Download Ladder Models](#🤗download-ladder-models-a-namedownloada)
+- [Quick Usage](#⚡quick-usage)
+- [Environment Setup](#📃-environment-setupa-nameenva)
+- [Code Structure](#📚-code-structure)
+- [Ladder Pipeline](#🖥️-ladder-pipeline)
+- [Citation](#citation)
 
-## **🤗Download Ladder Models**
+## **🤗Download Ladder Models** 
 
 | Models | Base Model Link | LoRA Link |
 | --- | --- | --- |
 | Ladder-2B | https://huggingface.co/google/gemma-2b | https://huggingface.co/fzp0424/Ladder-2B-LoRA |
 | Ladder-7B | https://huggingface.co/google/gemma-7b | https://huggingface.co/fzp0424/Ladder-7B-LoRA |
 
-## ⚡Quick Usage
+## **⚡Quick Usage** 
 
 ### ① Offline Refinement (manually fill the intermediate translation into test_case)
 
