@@ -2,11 +2,7 @@
 
 # 🪜Ladder: A Model-Agnostic Framework Boosting LLM-based Machine Translation to the Next Level
 
-<<<<<<< HEAD
-![github_ladder.png](Ladder%20Readme%20934c6cdea6274ca39044d2f1c90cbdcf/github_ladder.png)
-=======
 ![github_ladder.png](assets/github_ladder.png)
->>>>>>> README
 
 ## **🔔 News**
 
@@ -18,11 +14,7 @@
 
 ### Obtaining Ladder involves a two-step process:
 
-<<<<<<< HEAD
-![method_compress.png](Ladder%20Readme%20934c6cdea6274ca39044d2f1c90cbdcf/method_compress.png)
-=======
 ![method_compress.png](assets/method_compress.png)
->>>>>>> README
 
 ### Step 1: Sampling
 
