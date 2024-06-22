@@ -40,14 +40,14 @@ def extract_fields(input_path, output_path, prompt_strategy, use_shots):
         json.dump(extracted_data, f, ensure_ascii=False)
         
 
-def get_inter_prompt(source_lang, target_lang, ex, shots_eval_dict):
+def get_inter_prompt(source_lang, target_lang, ex, shots_eval_dict=None):
     src_fullname = LANG_TABLE[source_lang]
     tgt_fullname = LANG_TABLE[target_lang]
     shot_prompt = ""
     medfix = f"\nIntermediate Translation: "
     suffix = f"\nFinal {tgt_fullname} Translation: "
     shots = shots_eval_dict
-    if len(shots) > 0:
+    if shots is not None and len(shots) > 0:
         prefix = f"###You are a good {src_fullname}-{tgt_fullname} translator. Here are some translation examples whose 'Final {tgt_fullname} Translation' is better than the 'Intermediate Translation'.\n\nExamples:"
         for shot in shots:
             shot_src = shot['source']
