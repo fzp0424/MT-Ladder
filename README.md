@@ -34,21 +34,21 @@
 
 ## **🚀 Quick Links**
 
-- [Download Ladder Models](#🤗download-ladder-models)
-- [Quick Usage](#⚡quick-usage)
-- [Environment Setup](#📃-environment-setup)
-- [Code Structure](#📚-code-structure)
-- [Ladder Pipeline](#🖥️-ladder-pipeline)
+- [Download Ladder Models](#download)
+- [Quick Usage](#use)
+- [Environment Setup](#env)
+- [Code Structure](#struct)
+- [Ladder Pipeline](#pipeline)
 - [Citation](#citation)
 
-## **🤗Download Ladder Models** 
+## **🤗Download Ladder Models**<a name="download"></a>
 
 | Models | Base Model Link | LoRA Link |
 | --- | --- | --- |
 | Ladder-2B | https://huggingface.co/google/gemma-2b | https://huggingface.co/fzp0424/Ladder-2B-LoRA |
 | Ladder-7B | https://huggingface.co/google/gemma-7b | https://huggingface.co/fzp0424/Ladder-7B-LoRA |
 
-## **⚡Quick Usage** 
+## **⚡Quick Usage**<a name="use"></a>
 
 ### ① Offline Refinement (manually fill the intermediate translation into test_case)
 
@@ -144,7 +144,7 @@ test_case["translation"]["medium"] = medium_translation
 ...
 ```
 
-## **📃 Environment Setup**
+## **📃 Environment Setup**<a name="env"></a>
 
 ```bash
 git clone https://github.com/fzp0424/Ladder.git
@@ -154,13 +154,13 @@ conda activate ladder
 pip install -r requirements.txt
 ```
 
-## **📚** Code Structure
+## **📚** Code Structure<a name="struct"></a>
 
 - `results/`: baselines and Ladder refined  outputs
 - `dataset/`: our train set and test set
 - `script/`: our scripts, including training, inference and evaluation
 
-## 🖥️ Ladder Pipeline
+## 🖥️ Ladder Pipeline<a name="pipeline"></a>
 
 ### a) Fine-tune the base model using one file (Traditional Instruction Tuning)
 
