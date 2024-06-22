@@ -34,9 +34,9 @@
 
 ## **🚀 Quick Links**
 
-- [Download Ladder Models](#🤗download-ladder-models-a-namedownloada)
+- [Download Ladder Models](#🤗download-ladder-models)
 - [Quick Usage](#⚡quick-usage)
-- [Environment Setup](#📃-environment-setupa-nameenva)
+- [Environment Setup](#📃-environment-setup)
 - [Code Structure](#📚-code-structure)
 - [Ladder Pipeline](#🖥️-ladder-pipeline)
 - [Citation](#citation)
