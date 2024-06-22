@@ -1,0 +1,5 @@
+bayling-13bzero-shot-en-zh: 0.7990
+Bigtranslate13Bzero-shot-en-zh: 0.7960
+nllb-3.3bzero-shot-en-zh: 0.7966
+alpaca-7bzero-shot-en-zh: 0.7822
+vicunazero-shot-en-zh: 0.7954

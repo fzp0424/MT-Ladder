@@ -1,0 +1,9 @@
+bayling-13b: 0.7250
+vicuna: 0.7128
+gpt3.5-text-davinci-003: 0.8294
+Bigtranslate13B: 0.7855
+alma7b: 0.8340
+alpaca-7b: 0.6782
+ALMA-13B-LoRA: 0.8415
+GPT-4-1106-preview: 0.8481
+nllb-3.3b: 0.8420

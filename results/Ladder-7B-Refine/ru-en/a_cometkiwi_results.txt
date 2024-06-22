@@ -1,0 +1,6 @@
+gpt3.5-text-davinci-003zero-shot-ru-en: 0.8160
+nllb-3.3bzero-shot-ru-en: 0.8160
+alma7bzero-shot-ru-en: 0.8149
+GPT-4-1106-previewzero-shot-ru-en: 0.8170
+ALMA-13B-LoRAzero-shot-ru-en: 0.8153
+Bigtranslate13Bzero-shot-ru-en: 0.8143

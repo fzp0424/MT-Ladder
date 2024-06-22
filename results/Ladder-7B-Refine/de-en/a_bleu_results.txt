@@ -1,0 +1,6 @@
+Bigtranslate13Bzero-shot-de-en: 31.13
+nllb-3: 32.37
+alma7bzero-shot-de-en: 31.61
+gpt3: 31.61
+GPT-4-1106-previewzero-shot-de-en: 32.71
+ALMA-13B-LoRAzero-shot-de-en: 31.71

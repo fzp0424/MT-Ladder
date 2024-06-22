@@ -1,0 +1,5 @@
+Bigtranslate13Bzero-shot-cs-en: 0.8415
+vicunazero-shot-cs-en: 0.8360
+alpaca-7bzero-shot-cs-en: 0.8308
+nllb-3.3bzero-shot-cs-en: 0.8530
+bayling-13bzero-shot-cs-en: 0.8359

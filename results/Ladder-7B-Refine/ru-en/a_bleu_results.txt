@@ -1,0 +1,6 @@
+nllb-3: 41.97
+alma7bzero-shot-ru-en: 39.42
+GPT-4-1106-previewzero-shot-ru-en: 42.17
+gpt3: 39.51
+ALMA-13B-LoRAzero-shot-ru-en: 40.00
+Bigtranslate13Bzero-shot-ru-en: 39.22

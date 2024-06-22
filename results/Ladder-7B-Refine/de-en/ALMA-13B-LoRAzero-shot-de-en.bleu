@@ -1,0 +1,1 @@
+BLEU|nrefs:1|case:mixed|eff:no|tok:13a|smooth:exp|version:2.4.1 = 31.71 64.6/39.2/25.8/17.5 (BP = 0.969 ratio = 0.970 hyp_len = 36501 ref_len = 37634)

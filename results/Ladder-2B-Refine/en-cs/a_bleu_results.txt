@@ -1,0 +1,5 @@
+nllb-3: 28.34
+bayling-13bzero-shot-en-cs: 21.74
+Bigtranslate13Bzero-shot-en-cs: 24.39
+vicunazero-shot-en-cs: 21.51
+alpaca-7bzero-shot-en-cs: 20.62

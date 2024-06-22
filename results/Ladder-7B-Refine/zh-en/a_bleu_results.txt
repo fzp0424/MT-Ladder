@@ -1,0 +1,6 @@
+nllb-3: 26.91
+ALMA-13B-LoRAzero-shot-zh-en: 27.19
+gpt3: 27.10
+alma7bzero-shot-zh-en: 26.91
+Bigtranslate13Bzero-shot-zh-en: 26.49
+GPT-4-1106-previewzero-shot-zh-en: 27.20

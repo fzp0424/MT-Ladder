@@ -1,0 +1,9 @@
+nllb-3: 36.30
+alpaca-7b: 13.13
+bayling-13b: 16.43
+gpt3: 31.28
+alma7b: 29.28
+GPT-4-1106-preview: 33.66
+Bigtranslate13B: 22.68
+ALMA-13B-LoRA: 32.47
+vicuna: 16.37

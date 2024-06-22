@@ -1,0 +1,6 @@
+alma7bzero-shot-cs-en: 46.15
+GPT-4-1106-previewzero-shot-cs-en: 49.83
+nllb-3: 50.11
+ALMA-13B-LoRAzero-shot-cs-en: 46.45
+gpt3: 46.71
+Bigtranslate13Bzero-shot-cs-en: 45.87
