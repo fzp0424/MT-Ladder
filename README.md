@@ -1,6 +1,4 @@
-# Ladder Readme
-
-# 🪜Ladder: A Model-Agnostic Framework Boosting LLM-based Machine Translation to the Next Level
+# Ladder: A Model-Agnostic Framework Boosting LLM-based Machine Translation to the Next Level
 
 ![github_ladder.png](assets/github_ladder.png)
 
