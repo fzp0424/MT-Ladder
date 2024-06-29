@@ -3,7 +3,7 @@
 ![github_ladder.png](assets/github_ladder.png)
 
 ## **🔔 News**
-
+- **[06/29/2024] Our paper is released on Arxiv: [[2406.15741] Ladder: A Model-Agnostic Framework Boosting LLM-based Machine Translation to the Next Level (arxiv.org)](https://arxiv.org/abs/2406.15741)**
 - **[06/22/2024] We release the code and data of Ladder🪜**
 
 ## **🪜**About Ladder
@@ -197,5 +197,10 @@ sh inference_eval.sh
 ## Citation
 
 ```latex
-
+@article{feng2024ladder,
+  title={Ladder: A Model-Agnostic Framework Boosting LLM-based Machine Translation to the Next Level},
+  author={Feng, Zhaopeng and Chen, Ruizhe and Zhang, Yan and Meng, Zijie and Liu, Zuozhu},
+  journal={arXiv preprint arXiv:2406.15741},
+  year={2024}
+}
 ```
